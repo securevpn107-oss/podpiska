@@ -1,6 +1,6 @@
 #profile-title: SecureVPN
-#subscription-userinfo: upload=0; download=0; total=0
 #profile-update-interval: 12
+#subscription-userinfo: upload=0; download=0; total=0
 #expire: 2026-07-02
 #remarks: Безлимит | До 02.07.2026 | Продлить: @SecureDaVpnBot
 #support-url: https://t.me/SecureDaVpn
