@@ -1,4 +1,4 @@
-#profile-title: SecureVPN
+#profile-title: SecureVPN | Безлимит | До 02.07.2026
 #profile-update-interval: 12
 #total: 0
 #expire: 2026-07-02
