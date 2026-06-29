@@ -1,12 +1,11 @@
-#profile-title: SecureVPN | Безлимит | До 02.07.2026
+#profile-title: SecureVPN
 #profile-update-interval: 12
 #total: 0
 #expire: 2026-07-02
-#remarks: Безлимит | До 02.07.2026 | Продлить: @SecureDaVpnBot
 #support-url: https://t.me/SecureDaVpn
 #profile-web-page-url: https://t.me/SecureDaVpn
 
-#announce: 🔒 SecureVPN — Бесплатный и быстрый VPN для всех! Подписка активна до 02.07.2026. Присоединяйся: @SecureDaVpn
+#announce: 🔒 SecureVPN — Бесплатный и быстрый VPN для всех! Присоединяйся: @SecureDaVpn
 
 vless://c05e4668-fa04-451e-98c4-4cee35b50513@nde.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=abalak.su&expire=2026-07-02#🇩🇪 Германия
 vless://c05e4668-fa04-451e-98c4-4cee35b50513@pin.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=g-u.su&expire=2026-07-02#🇷🇺 Россия
