@@ -1,11 +1,12 @@
 #profile-title: SecureVPN
-#subscription-userinfo: upload=0; download=0; total=0
 #profile-update-interval: 12
+#total: 0
+#expire: 2026-07-02
 #support-url: https://t.me/SecureDaVpn
 #profile-web-page-url: https://t.me/SecureDaVpn
 
-#announce: 🔒 SecureVPN — Бесплатный и быстрый VPN для всех! Подписывайся на наш Telegram-канал за новыми серверами и обновлениями: @SecureDaVpn
+#announce: 🔒 SecureVPN — Бесплатный и быстрый VPN для всех! Присоединяйся: @SecureDaVpn
 
-vless://c05e4668-fa04-451e-98c4-4cee35b50513@nde.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=abalak.su&expire=2026-12-31#🇩🇪 Германия
-vless://c05e4668-fa04-451e-98c4-4cee35b50513@pin.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=g-u.su&expire=2026-12-31#🇷🇺 Россия
-vless://3fdb6696-0d52-42d4-a8cc-8930f571894f@193.41.68.133:443?type=ws&encryption=none&path=%2F&expire=2026-12-31#🇫🇮 Финляндия
+vless://c05e4668-fa04-451e-98c4-4cee35b50513@nde.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=abalak.su&expire=2026-07-02#🇩🇪 Германия
+vless://c05e4668-fa04-451e-98c4-4cee35b50513@pin.adrtun.ru:443?type=tcp&security=reality&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&sni=g-u.su&expire=2026-07-02#🇷🇺 Россия
+vless://3fdb6696-0d52-42d4-a8cc-8930f571894f@193.41.68.133:443?type=ws&encryption=none&path=%2F&expire=2026-07-02#🇫🇮 Финляндия
